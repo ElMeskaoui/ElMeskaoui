@@ -10,7 +10,7 @@ Software Engineering, Photography, Designer
 </div>
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [elhossin.elmaskaoui2001@gmail.com](mailto:elhossin.elmaskaoui2001@gmail.com)
+* ✉️  You can contact me at [elhoucine.elmeskaoui@gmail.com](mailto:elhoucine.elmeskaoui@gmail.com)
 * 🧠  I'm learning Spring Boot and Angular
 
 ### Skills
@@ -41,7 +41,7 @@ Software Engineering, Photography, Designer
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/ElMeskaouiElhoucine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ElMeskaoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ElMeskaouiElHoucine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ElMeskaoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/ElMeskaouiElhoucine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ElMeskaoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/el-meskaoui-el-houcine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ElMeskaoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
