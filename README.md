@@ -6,7 +6,7 @@ Hi 👋 My name is El Meskaoui El Houcine
 Software Engineering, Photography, Designer
 -------------------------------------------
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="400"/>
 </div>
 
 * 🌍  I'm based in Morocco
